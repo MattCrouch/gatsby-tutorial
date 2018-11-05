@@ -1,6 +1,6 @@
 # Build a blogging site with Gatsby
 
-[Demo](https://mattcrouch.github.io/gatsby-blog)
+[Demo](https://mattcrouch.github.io/gatsbyblog/)
 
 These are the files to accompany the Net Magazine tutorial.
 
