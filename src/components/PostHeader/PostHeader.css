@@ -1,0 +1,13 @@
+.post-header {
+  background: #2badba;
+  padding: 3rem 0;
+  margin-bottom: 3rem;
+}
+
+.post-header__title {
+  margin-bottom: 0;
+}
+
+.post-header__date {
+  font-style: italic;
+}

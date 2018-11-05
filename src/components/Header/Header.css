@@ -1,0 +1,16 @@
+.header {
+  padding: 3rem 0;
+}
+
+.header__title {
+  margin: 0;
+}
+
+.header__link {
+  text-decoration: none;
+}
+
+.header__link:hover,
+.header__link:focus {
+  text-decoration: underline;
+}

@@ -1,0 +1,39 @@
+.post-sample__date {
+  font-style: italic;
+}
+
+.post-sample__link {
+  display: block;
+  padding: 3rem 0;
+  text-decoration: none;
+}
+
+.post-sample__link--has-tags {
+  padding-bottom: 2rem;
+}
+
+.post-sample__link:hover h1,
+.post-sample__link:focus h1 {
+  text-decoration: underline;
+}
+
+.post-sample__summary {
+  margin: 1rem 0;
+}
+
+.post-sample__tag {
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0 1rem 1rem 0;
+  padding: 0.1rem 1rem;
+}
+
+.post-sample__tags {
+  list-style: none;
+  margin: 1rem 0 0;
+}
+
+.post-sample__title {
+  margin-bottom: 0;
+}

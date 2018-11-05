@@ -1,0 +1,19 @@
+.index__posts > .post-sample:nth-child(5n + 1) {
+  background: #2badba;
+}
+
+.index__posts > .post-sample:nth-child(5n + 2) {
+  background: #91faf7;
+}
+
+.index__posts > .post-sample:nth-child(5n + 3) {
+  background: #ffcf40;
+}
+
+.index__posts > .post-sample:nth-child(5n + 4) {
+  background: #f27c29;
+}
+
+.index__posts > .post-sample:nth-child(5n + 5) {
+  background: #d43b2f;
+}
