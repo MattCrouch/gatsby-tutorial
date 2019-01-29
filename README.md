@@ -1,7 +1,7 @@
-# Styling React components with Emotion v10
+# Build a blogging site with Gatsby
 
-[Demo](https://mattcrouch.github.io/gradientpicker/)
+[Demo](https://mattcrouch.github.io/gatsbyblog/)
 
 These are the files to accompany the Net Magazine tutorial.
 
-Use [Emotion](https://emotion.sh/) with React to keep styles alongside component logic and have styles updated accordingly.
+Use [Gatsby](https://www.gatsbyjs.org/) with React to build a statically-generated blog from posts written in Markdown.
