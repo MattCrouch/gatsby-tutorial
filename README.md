@@ -12,5 +12,5 @@ This is a tutorial written for Net magazine.
 
 [demo]: https://mattcrouch.github.io/gatsbyblog/
 [blog post]: https://mattcrouch.github.io/blog/2018/12/create-static-website-gatsby/
-[net magazine]: https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-september-2018-issue-314/
+[net magazine]: https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-january-2019-issue-314/
 [example screenshot]: screenshot.png
